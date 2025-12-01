@@ -1,10 +1,11 @@
+<div align ="center">
+
 <img alt="upc-logo" src="/Assets/UPC_logo_transparente.png" width="200"/><br>
 
 <div align ="center">
 
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
 
-<div align ="center">
 
 
 
@@ -128,6 +129,7 @@
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
 
 
 
