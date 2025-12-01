@@ -1,3 +1,5 @@
+<div align ="center">
+
 <img alt="upc-logo" src="/Assets/UPC_logo_transparente.png" width="200"/><br>
 
 <div align ="center">
@@ -2144,5 +2146,6 @@ URL: Microsfot Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2021160
 # Bibliografía
 
 # Anexos
+
 
 
