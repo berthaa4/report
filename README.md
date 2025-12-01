@@ -22,13 +22,13 @@
 
 ### Team Members:
 
-|             Member              |    Code    |
+|    Code   |         Member        |
 |:-------------------------------:|:----------:|
-|  Bertha Roxmeri Román Rodriguez |   u20211c654   |
-| Mel Andree Orellana Rodriguez | U202116018 |
-|  Jean Pool Huaman De La Cruz |    U20201E781     |
+|   u20211c654  |  Bertha Roxmeri Román Rodriguez  |
+| U202116018  | Mel Andree Orellana Rodriguez |
+|  U20201E781   |  Jean Pool Huaman De La Cruz    |
 
-<strong> Setiembre 2025</strong><br>
+<strong> Noviembre 2025</strong><br>
 </div>
 
 # Registro de Versiones del Informe
@@ -42,6 +42,10 @@
 | TB1      | 20/09/2025  | Orellana Rodriguez, Mel Andree|Incorporación del Database Diagram |
 | TB1      | 20/09/2025  | Orellana Rodriguez, Mel Andree|Incorporación del Web Applications Wireframes |
 | TB1      | 20/09/2025  | Orellana Rodriguez, Mel Andree|Incorporación del Web Applications Wireflow Diagrams |
+| TB1      | 15/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de To-Be Scenario Mapping|
+| TB1      | 15/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de User Stories|
+| TB1      | 17/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Impact Mapping|
+| TB1      | 19/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Product Backlog|
 
 
 | Versión  | Fecha       | Autor                              | Descripción de modificación                                                    |
@@ -2146,6 +2150,7 @@ URL: Microsfot Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2021160
 # Bibliografía
 
 # Anexos
+
 
 
 
