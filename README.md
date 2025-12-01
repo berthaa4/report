@@ -1,9 +1,12 @@
+<img alt="upc-logo" src="/Assets/UPC_logo_transparente.png" width="200"/><br>
+
+<div align ="center">
 
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
 
 <div align ="center">
 
-<img alt="upc-logo" src="/Assets/UPC_logo_transparente.png" width="200"/><br>
+
 
 <strong>Ingeniería de Software - 2025-2</strong><br>
 <strong>1ASI0729 - Desarrollo de Aplicaciones Open Source</strong><br>
@@ -125,6 +128,7 @@
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
 
 
 
