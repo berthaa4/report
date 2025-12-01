@@ -43,7 +43,7 @@
 | TB1      | 20/09/2025  | Orellana Rodriguez, Mel Andree|Incorporación del Web Applications Wireframes |
 | TB1      | 20/09/2025  | Orellana Rodriguez, Mel Andree|Incorporación del Web Applications Wireflow Diagrams |
 | TB1      | 15/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de To-Be Scenario Mapping|
-| TB1      | 15/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de User Stories|
+| TB1      | 15/09/2025  | Román Rodriguez, Bertha Roxmeri|Diseño de User Stories|
 | TB1      | 17/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Impact Mapping|
 | TB1      | 19/09/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Product Backlog|
 
@@ -56,6 +56,11 @@
 | TP      | 27/09/2025  | Orellana Rodriguez, Mel Andree|Implementación del módulo de autenticación y sesión (profile)  |
 | TP      | 27/09/2025  | Orellana Rodriguez, Mel Andree|Conexión del frontend con la API           |
 | TP      | 27/09/2025  | Orellana Rodriguez, Mel Andree|Documentación de endpoints del backend con Swagger  |
+| TP      | 5/10/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Idea conceptual de Proyecto  |
+| TP      | 5/10/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Competitors Analysis |
+| TP      | 5/10/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Estrategias y tácticas frente a competidores |
+| TP      | 5/10/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de Needfinding |
+| TP      | 5/10/2025  | Román Rodriguez, Bertha Roxmeri|Desarrollo de  Ubiquitous Language |
 
 
 
@@ -2150,6 +2155,7 @@ URL: Microsfot Teams: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2021160
 # Bibliografía
 
 # Anexos
+
 
 
 
